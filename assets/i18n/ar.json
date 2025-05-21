@@ -1983,6 +1983,30 @@
       "creationName": "صاحب الأجراء",
       "trackStep": "تتبع الموافقات"
     },
+    "reportBuilder":{
+      "title": " منشئ التقرير",
+      "totalBySupplierGroups": "الإجمالي حسب مجموعة الموردين",
+      "totalBySupplier": "الاجمالي حسب المورد ",
+      "totalByResource": " الاجمالي بالمورد ",
+      "detailed": "تفصيلي",
+      "Settlement": "تسويه فواتير الموردين حتي الان",
+      "proposedBillsForPayment": "الفواتير المقترحة للدفع",
+       "proposedInvoicesForPaymentToTheSupplier": "الفواتير المقترحة للدفع للمورد",
+       "supplierInvoicesReport": "تقرير فواتير الموردين",
+       "deleteReport": "حذف التقرير",
+       "viewReport": "عرض التقرير",
+       "searchCriteria": "معايير البحث",
+       "thePeriodFrom": "الفتره من",
+       "to": "الي",
+       "PurchaseOrderNumber": "رقم امر الشراء",
+       "openThisSelectMenu": "افتح قائمه التحديد",
+       "supplierInvoiceNumber": "رقم فاتوره المورد",
+       "supplier": "المورد",
+       "invoiceType": "نوع الفاتوره",
+       "proposedPaymentStatus": "حاله الدفع المقترحه",
+       "supplierGroup": "مجموعه الموردين",
+       "user": "المستخدم"
+    },
     "pendingSteps": {
       "title": "الطلبات المعلقة للمستخدم",
       "nameEn": "الاسم (En)",
@@ -2414,9 +2438,9 @@
 
     "dashboardSalesRep": {
       "title": " مندوب مبيعات لوحة القيادة",
-      "recentActivity":"النشاط الاخير",
-      "collection":"المجموعات",
-      "follow-up":"المتابعه",
+      "recentActivity": "النشاط الاخير",
+      "collection": "المجموعات",
+      "follow-up": "المتابعه",
       "monthlyPerformance": "الأداء الشهري",
       "salesAchieved": "المبيعات المحققة",
       "collectionAchieved": "التحصيلات المحققة",
@@ -2470,7 +2494,7 @@
       "inactiveCustomers": "العملاء غير النشطين",
       "monthly": "شهري",
       "weekly": "اسبوعي",
-      "view":" عرض"
+      "view": " عرض"
     },
     "salesOrderStore": {
       "title": "طلبات المستودع",
@@ -2527,11 +2551,21 @@
       "status": "الحالة",
       "Start": "بدأ الزيارة",
       "Cancel": "إلغاء الزيارة"
+    },
+    "salesRequest": {
+      "title": "طلبات المبيعات"
+    },
+    "visitRescheduleReason": {
+      "title": "أسباب جدوله الزيارة",
+      "titleOperation": "سبب"
+
+    },
+    "visitCancelReason": {
+      "title": "أسباب إلغاء الزيارة",
+      "titleOperation": "سبب"
     }
   },
-  "salesRequest": {
-    "title": "طلبات المبيعات"
-  },
+ 
   "marketing": {
     "productOffer": {
       "title": "عروض المنتجات",
