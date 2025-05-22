@@ -465,7 +465,7 @@
       "securityManagement": "إدارة المستخدمين",
       "basicData": "البيانات الأساسية",
       "messages": "الرسائل الداخلية",
-      "statistics": "الاحصائيات",
+      "statistics": "الاحصائيات و التقارير",
       "crm": "إدارة علاقات العملاء (crm)",
       "leads": "العملاء المحتملين",
       "nearly": "قريبا",
@@ -871,7 +871,9 @@
       "repeatType": "نوع التكرار",
       "Monthly": "شهريا",
       "Weekly": "إسبوعيا",
-      "Yearly": "سنويا"
+      "Yearly": "سنويا",
+      "Items": "تارجت الاصناف",
+      "Collection": "تارجت التحصيل"
     }
   },
   "clientManagement": {
@@ -1775,6 +1777,17 @@
       "noOrder": "لا يوجد طلب",
       "totalCity": "اجمالى المدينة",
       "totalAvailable": "عدد المواعيد المتاحة"
+    },
+    "reportBuilder": {
+      "title": "تقارير النظام",
+      "targetSalesCollections": "تارجت المبيعات والتحصيلات",
+      "noResult": "لا يوجد تقرير ! من فضلك اختر تقرير ثم إضغط على عرض التقرير",
+      "cities": "المدن",
+      "salesPerson": "مندوبين المبيعات",
+      "dateFromTo": "التاريخ من -الى",
+      "mustSelectedReport": "يجب إختيار تقرير",
+      "mustSelectedDate": "يجب إختيار التاريخ من -الى ",
+      "checkTargetEmployee": "حدث خطأ , من فضلك تأكد من أهداتف المندوبين"
     }
   },
 
@@ -1993,7 +2006,7 @@
       "proposedBillsForPayment": "الفواتير المقترحة للدفع",
        "proposedInvoicesForPaymentToTheSupplier": "الفواتير المقترحة للدفع للمورد",
        "supplierInvoicesReport": "تقرير فواتير الموردين",
-       "deleteReport": "حذف التقرير",
+       "deleteReport": "حذف المعايير",
        "viewReport": "عرض التقرير",
        "searchCriteria": "معايير البحث",
        "thePeriodFrom": "الفتره من",

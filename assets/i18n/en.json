@@ -470,7 +470,7 @@
       "securityManagement": "Security Management",
       "basicData": "Basic Data",
       "messages": "Internal Messages",
-      "statistics": "Statistics",
+      "statistics": "Statistics & Reports",
       "crm": "CRM",
       "leads": "Leads",
       "nearly": "Nearly",
@@ -980,7 +980,9 @@
       "repeatType": "Repeated Type",
       "Monthly": "Monthly",
       "Weekly": "Weekly",
-      "Yearly": "Yearly"
+      "Yearly": "Yearly",
+      "Items": "Items",
+      "Collection": "Collection"
     }
   },
   "clientManagement": {
@@ -1905,6 +1907,17 @@
       "noOrder": "No Order",
       "totalCity": "Total City",
       "totalAvailable": "No Order"
+    },
+    "reportBuilder":{
+      "title": "Report Builder",
+      "targetSalesCollections": "Target sales & collections",
+      "noResult": "No Result",
+      "cities": "Cities",
+      "salesPerson": "Sales Person",
+      "dateFromTo": "Date From-To",
+      "mustSelectedReport": "Must Selected Report",
+      "mustSelectedDate": "Must Selected Date",
+      "checkTargetEmployee": "Fail , Plz Check Employee Target Selected"
     }
   },
   "store": {
