@@ -347,8 +347,10 @@
       "creationTime": "Creation Time",
       "id": "Code",
       "creator": "Creator",
-      "isMain":"Is Main",
-      "refId":"Ref_Id"
+      "isMain": "Is Main",
+      "refId": "Ref_Id",
+      "apiId": "Api Id"
+  
     },
     "action": {
       "register": "Register",
@@ -1473,7 +1475,7 @@
     }
   },
   "basicData": {
-    "outSystem":{
+    "outSystem": {
       "title": "Odoo System",
       "titleOperation": "Odoo System",
       "domain": "Domain URL",
@@ -1542,7 +1544,7 @@
       "district": "District",
       "addCity": "Add City",
       "addDistrict": "Add District",
-      "regionName":"Region Name"
+      "regionName": "Region Name"
     },
     "returnReason": {
       "title": "Return Reasons"
@@ -1569,11 +1571,11 @@
       "NotPublish": "Not Publish",
       "Published": "Published",
       "Draft": "Draft",
-      "sku":"SKU"
+      "sku": "SKU"
     },
     "item": {
       "title": "Products ",
-      "allItems":"ِAll Items",
+      "allItems": "ِAll Items",
       "titleOperation": "Product",
       "edit": "Product Edit",
       "add": "Product Create",
@@ -1584,7 +1586,7 @@
       "conversionFactor": "Conversion Factor",
       "units": "Units",
       "addUnit": "Add Unit",
-      "plzAddUnit":"Please Select At Least One Unit"
+      "plzAddUnit": "Please Select At Least One Unit"
     },
     "serviceType": {
       "title": "Service Types",
@@ -1600,7 +1602,7 @@
       "service": "Service",
       "addServiceCategory": "Add Category",
       "addService": "Add Service",
-      "addItem":"Add Item",
+      "addItem": "Add Item",
       "price": "Price",
       "serviceTypeCode": "Service Type",
       "timeCount": "Time Count",
@@ -1644,7 +1646,7 @@
       "invoiceMessageWithDiscount": "Invoice Message With Discount",
       "invoiceMessageWithOutDiscount": "Invoice Message With Out Discount",
       "tax": "Tax",
-      "salesOrderApproval":"Set sales order approval?"
+      "salesOrderApproval": "Set sales order approval?"
     },
     "systemSchedule": {
       "title": "System Schedules",
@@ -1662,9 +1664,23 @@
       "visitJob": "Visit Job",
       "parameter": "Parameter(Shift-etc)"
     },
-    "region":{
+    "region": {
       "title": "Regions ",
       "titleOperation": "region"
+    },
+    "fiscalPosition": {
+      "title": "Fiscal Position ",
+      "titleOperation": "Fiscal Position "
+    },
+    "branch": {
+      "title": "branchs ",
+      "titleOperation": "branch",
+      "fiscalPositions": "Fiscal Positions",
+      "taxes": "Taxes"
+    },
+    "taxesID":{
+      "title": "taxesID ",
+      "titleOperation": "taxesID"
     }
   },
   "client": {
@@ -1723,7 +1739,8 @@
       "map":"Location",
       "visits":"Visits",
       "isCompleted":"Completed",
-      "isNotComplete":"Not Complete"
+      "isNotComplete":"Not Complete",
+      "branches":"Branches"
     },
     "clientCompany": {
       "title": "Customers Products"
@@ -1911,6 +1928,16 @@
     "reportBuilder":{
       "title": "Report Builder",
       "targetSalesCollections": "Target sales & collections",
+      "comprehensiveSalesReport": "Comprehensive sales",
+      "debtReport": "Debt Report",
+      "activeAndInactiveCustomersReport": "Active&Inactive customers",
+      "newCustomersReport": "New customers",
+      "customersAndItemsCountReport": "Customers& items count  ",
+      "performanceReport": "Performance",
+      "soldItemsByWarehouseInCartonsReport": "Sold items by Store In Cartons",
+      "monthlyDeliveriesReport": "monthly deliveries",
+      "deliveryComplianceReport": "Delivery compliance",
+
       "noResult": "No Result",
       "cities": "Cities",
       "salesPerson": "Sales Person",
@@ -2601,7 +2628,8 @@
       "Delay": "Delay",
       "status": "Status",
       "Start": "Start visit",
-      "Cancel": "Cancel visit"
+      "Cancel": "Cancel visit",
+      "totalVisitDaily":"Total visit daily"
     }
   },
   

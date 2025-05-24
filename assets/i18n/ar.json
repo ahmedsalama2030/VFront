@@ -345,7 +345,9 @@
       "noActive": "غير نشط",
       "creator": "المنشى",
       "isMain": "أساسى ؟ ",
-      "refId":"Ref_Id"
+      "refId": "Ref_Id",
+      "apiId": "Api_Id"
+  
     },
     "action": {
       "register": "تسجيل",
@@ -1551,6 +1553,20 @@
     "region": {
       "title": "المناطق",
       "titleOperation": "منطقة"
+    },
+    "fiscalPosition": {
+      "title": "Fiscal Position ",
+      "titleOperation": "Fiscal Position "
+    },
+    "branch": {
+      "title": "الشركات- الفروع ",
+      "titleOperation": "شركه-فرع",
+      "fiscalPositions": "Fiscal_Positions",
+      "taxes": "Taxes"
+    },
+    "taxesID": {
+      "title": "Taxes ID ",
+      "titleOperation": "Taxes ID"
     }
   },
   "client": {
@@ -1609,7 +1625,8 @@
       "map": "الموقع",
       "visits": "الزيارات",
       "isCompleted": "مستكمل",
-      "isNotComplete": "غير مستكمل"
+      "isNotComplete": "غير مستكمل",
+      "branches": "الشركه - الفرع"
     },
     "clientCompany": {
       "title": "عملاء الشركة"
@@ -1781,6 +1798,15 @@
     "reportBuilder": {
       "title": "تقارير النظام",
       "targetSalesCollections": "تارجت المبيعات والتحصيلات",
+      "comprehensiveSalesReport": "المبيعات الشامل",
+      "debtReport": "المديونية",
+      "activeAndInactiveCustomersReport": "العملاء النشطة وغير النشطة",
+      "newCustomersReport": "العملاء الجديدة",
+      "customersAndItemsCountReport": "تقرير بالعملاء وعدد الأصناف  ",
+      "performanceReport": "تقرير الأداء",
+      "soldItemsByWarehouseInCartonsReport": "تقرير الأصناف المباعة من كل مستودع بالكرتون",
+      "monthlyDeliveriesReport": "تقرير التسليمات الشهري",
+      "deliveryComplianceReport": "تقرير التزام التسليم",
       "noResult": "لا يوجد تقرير ! من فضلك اختر تقرير ثم إضغط على عرض التقرير",
       "cities": "المدن",
       "salesPerson": "مندوبين المبيعات",
@@ -2563,7 +2589,8 @@
       "Delay": "تاجيل الزيارة",
       "status": "الحالة",
       "Start": "بدأ الزيارة",
-      "Cancel": "إلغاء الزيارة"
+      "Cancel": "إلغاء الزيارة",
+      "totalVisitDaily": "إجمالى الزيارات اليومى"
     },
     "salesRequest": {
       "title": "طلبات المبيعات"
