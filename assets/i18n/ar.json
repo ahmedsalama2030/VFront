@@ -440,10 +440,11 @@
       "viewBySalesPerson": "عرض ك مندوب",
       "viewBySalesManager": "عرض ك مدير مبيعات",
       "requestNewOpen": "طلب فتح عميل",
-      "updatePrice":"تعديل السعر",
+      "updatePrice": "تعديل السعر",
       "completion": "إستكمال",
       "profile": "بروفيل العميل",
-      "active": "نشط"
+      "active": "نشط",
+      "copyPlan": "نسخ خطة"
     },
     "common": {
       "Web": "الموقع الخارجى",
@@ -2590,7 +2591,24 @@
       "status": "الحالة",
       "Start": "بدأ الزيارة",
       "Cancel": "إلغاء الزيارة",
-      "totalVisitDaily": "إجمالى الزيارات اليومى"
+      "totalVisitDaily": "إجمالى الزيارات اليومى",
+      "viewClients": "عرض العملاء",
+      "actions": "الاجراء",
+      "mustSelectTotalVisitDaily": "يجب إختيار الإجمالى اليومى للزيارات",
+      "mustSelectVisitType": "يجب إختيار نوع الزيارة",
+      "mustSelectVisitObjective": "يجب إختيار أهداف الزيارة",
+      "summary": "ملخص الخطة",
+      "countVisit": "عدد الزيارات",
+      "periodicVisits": "  الزبارات الدورية",
+      "marketingVisits": "  الزيارات التسويقيه",
+      "other": "أخرى",
+      "statusName": "الحالة",
+      "Draft": "مسودة",
+      "Approved": "تاكيد",
+      "Cancelled": "إلغاء",
+      "allPlan":"كل الخطط",
+      "copyPlan":"نسخ خطة",
+      "changeStatus":"تغيير الحالة"
     },
     "salesRequest": {
       "title": "طلبات المبيعات"

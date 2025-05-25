@@ -448,7 +448,8 @@
       "updatePrice": "Update price",
       "completion": "Completion",
       "profile": "Profile",
-      "active": "Active"
+      "active": "Active",
+      "copyPlan":"Copy Plan"
     },
     "common":{
       "Web": "Web",
@@ -2629,7 +2630,24 @@
       "status": "Status",
       "Start": "Start visit",
       "Cancel": "Cancel visit",
-      "totalVisitDaily":"Total visit daily"
+      "totalVisitDaily": "Total visit daily",
+      "viewClients": "View Clients",
+      "actions": "Actions",
+      "mustSelectTotalVisitDaily": "Must select total visit daily",
+      "mustSelectVisitType": "Must select visit type",
+      "mustSelectVisitObjective": "Must select visit objectives",
+      "summary":"Summary plan",
+      "countVisit":"Visit Count",
+      "periodicVisits":"Periodic Visits",
+      "marketingVisits":"Marketing Visits",
+      "other":"Other",
+      "statusName":"Status Name",
+      "Draft":"Draft",
+      "Approved":"Approved",
+      "Cancelled":"Cancelled",
+      "allPlan":"All Plan",
+      "copyPlan":"Copy Plan",
+      "changeStatus":"Change Status"
     }
   },
   
