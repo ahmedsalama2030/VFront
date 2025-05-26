@@ -2506,7 +2506,7 @@
       "viewDetails": " عرض التفاصيل",
       "visitsPerWeekNeeded": "عدد الزيارات المطلوبة في الأسبوع",
       "invoicesDue": "الفواتير المستحقة",
-      "totalAmountDue": "المبلغ الإجمالي المستحق: 48,500 ريال سعودي",
+      "totalAmountDue": "المبلغ الإجمالي المستحق",
       "overdue": "متأخرة لمدة يومين",
       "upcomingVisits": "الزيارات القادمة",
       "customerName": " اسم العميل",
@@ -2534,7 +2534,9 @@
       "inactiveCustomers": "العملاء غير النشطين",
       "monthly": "شهري",
       "weekly": "اسبوعي",
-      "view": " عرض"
+      "view": " عرض",
+      "allCustomers":"جميع العملاء",
+      "more":"المزيد"
     },
     "salesOrderStore": {
       "title": "طلبات المستودع",

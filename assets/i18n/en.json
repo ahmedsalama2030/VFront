@@ -2370,7 +2370,7 @@
       "viewDetails": "View Details",
       "visitsPerWeekNeeded": "visits Per Week Needed",
       "invoicesDue": "Invoices Due",
-      "totalAmountDue": "Total Amount Due: 48,500 SAR",
+      "totalAmountDue": "Total Amount Due",
       "overdue": "Overdue by 2 days",
       "upcomingVisits": "Upcoming Visits",
       "customerName": "Customer Name",
@@ -2397,7 +2397,9 @@
       "yesterday": "Yesterday, 3:45 PM",
       "recentActivity": "Recent Activity",
       "collection": "Collection",
-      "follow-up": "Follow-up"
+      "follow-up": "Follow-up",
+      "allCustomers":"All customers",
+      "more":"More"
     },
     "startVisits": {
       "title": "Start Visits",
