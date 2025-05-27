@@ -349,8 +349,8 @@
       "creator": "Creator",
       "isMain": "Is Main",
       "refId": "Ref_Id",
-      "apiId": "Api Id"
-  
+      "apiId": "Api Id",
+      "currancy": "SAR"
     },
     "action": {
       "register": "Register",
@@ -1234,7 +1234,9 @@
       "freeQuantity": "Free quantity",
       "costAfterDiscount":"After discount",
       "offers":"Offers",
-
+      "sendOdoo":"Send Odoo",
+      "send":"Send",
+      "noSend":"Not Send",
       "newOrders": {
         "title": "New Orders",
         "titleOperation": "New"
@@ -1647,7 +1649,8 @@
       "invoiceMessageWithDiscount": "Invoice Message With Discount",
       "invoiceMessageWithOutDiscount": "Invoice Message With Out Discount",
       "tax": "Tax",
-      "salesOrderApproval": "Set sales order approval?"
+      "salesOrderApproval": "Set sales order approval?",
+      "sendInvoiceOdoo":"Send invoice to odoo direct "
     },
     "systemSchedule": {
       "title": "System Schedules",
@@ -2399,7 +2402,11 @@
       "collection": "Collection",
       "follow-up": "Follow-up",
       "allCustomers":"All customers",
-      "more":"More"
+      "more":"More",
+      "monthlyNewCustomersTarget":"Monthly new customers target",
+      "clientAchieved":"New Customers",
+      "customer":"Customer"
+      
     },
     "startVisits": {
       "title": "Start Visits",

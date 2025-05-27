@@ -346,7 +346,8 @@
       "creator": "المنشى",
       "isMain": "أساسى ؟ ",
       "refId": "Ref_Id",
-      "apiId": "Api_Id"
+      "apiId": "Api_Id",
+      "currancy":"ريال"
   
     },
     "action": {
@@ -1118,8 +1119,11 @@
       "itemFree": "مجانى",
       "itemQuantity": "الكمية المطلوبة",
       "freeQuantity": "الكمية المجانية",
-      "costAfterDiscount": "المبلغ بعد الخصم",
+      "costAfterDiscount": "  بعد الخصم",
       "offers": "العروض",
+      "sendOdoo": "إرسال اودو",
+      "send": "تم الإرسال",
+      "noSend": "لم ترسل ",
       "newOrders": {
         "title": "الطلبات الجديدة",
         "titleOperation": "الطلبات الجديدة"
@@ -1533,7 +1537,8 @@
       "invoiceMessageWithDiscount": "رسالة الفاتورة مع الخصم",
       "invoiceMessageWithOutDiscount": "رسالة الفاتورة بدون خصم",
       "tax": "الضريبة",
-      "salesOrderApproval": "إنشاء طلبات المبيعات لدورة  الموافقات ؟ "
+      "salesOrderApproval": "إنشاء طلبات المبيعات لدورة  الموافقات ؟ ",
+      "sendInvoiceOdoo":"إرسال  فواتير الخدمات الى اودو مباشر"
     },
     "systemSchedule": {
       "title": "جدوله النظام",
@@ -2536,7 +2541,10 @@
       "weekly": "اسبوعي",
       "view": " عرض",
       "allCustomers":"جميع العملاء",
-      "more":"المزيد"
+      "more":"المزيد",
+      "monthlyNewCustomersTarget":"الهدف الشهرى للعملاء الجدد",
+      "clientAchieved":"العملاء الجدد",
+      "customer":"عميل"
     },
     "salesOrderStore": {
       "title": "طلبات المستودع",
