@@ -449,7 +449,8 @@
       "completion": "Completion",
       "profile": "Profile",
       "active": "Active",
-      "copyPlan":"Copy Plan"
+      "copyPlan":"Copy Plan",
+      "detail":"Detail"
     },
     "common":{
       "Web": "Web",
@@ -1948,7 +1949,8 @@
       "dateFromTo": "Date From-To",
       "mustSelectedReport": "Must Selected Report",
       "mustSelectedDate": "Must Selected Date",
-      "checkTargetEmployee": "Fail , Plz Check Employee Target Selected"
+      "checkTargetEmployee": "Fail , Plz Check Employee Target Selected",
+      "stores":"Stores"
     }
   },
   "store": {
@@ -2338,7 +2340,12 @@
       "startVisit": "Start Visit",
       "details": "Details",
       "pending": "pending",
-      "contact": "Contact: John Smith"
+      "contact": "Contact: John Smith",
+      "Schedule": "Schedule",
+      "Start": "Start",
+      "Complete": "Complete",
+      "Cancel": "Cancel",
+      "Delay": "Schedule"
     },
     "dashboardSalesRep": {
       "title": "Dashboard Sales Rep",

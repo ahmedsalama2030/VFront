@@ -445,7 +445,8 @@
       "completion": "إستكمال",
       "profile": "بروفيل العميل",
       "active": "نشط",
-      "copyPlan": "نسخ خطة"
+      "copyPlan": "نسخ خطة",
+      "detail": "التفاصيل"
     },
     "common": {
       "Web": "الموقع الخارجى",
@@ -1819,7 +1820,8 @@
       "dateFromTo": "التاريخ من -الى",
       "mustSelectedReport": "يجب إختيار تقرير",
       "mustSelectedDate": "يجب إختيار التاريخ من -الى ",
-      "checkTargetEmployee": "حدث خطأ , من فضلك تأكد من أهداتف المندوبين"
+      "checkTargetEmployee": "حدث خطأ , من فضلك تأكد من أهداتف المندوبين",
+      "stores": "المستودعات"
     }
   },
 
@@ -2036,21 +2038,21 @@
       "detailed": "تفصيلي",
       "Settlement": "تسويه فواتير الموردين حتي الان",
       "proposedBillsForPayment": "الفواتير المقترحة للدفع",
-       "proposedInvoicesForPaymentToTheSupplier": "الفواتير المقترحة للدفع للمورد",
-       "supplierInvoicesReport": "تقرير فواتير الموردين",
-       "deleteReport": "حذف المعايير",
-       "viewReport": "عرض التقرير",
-       "searchCriteria": "معايير البحث",
-       "thePeriodFrom": "الفتره من",
-       "to": "الي",
-       "PurchaseOrderNumber": "رقم امر الشراء",
-       "openThisSelectMenu": "افتح قائمه التحديد",
-       "supplierInvoiceNumber": "رقم فاتوره المورد",
-       "supplier": "المورد",
-       "invoiceType": "نوع الفاتوره",
-       "proposedPaymentStatus": "حاله الدفع المقترحه",
-       "supplierGroup": "مجموعه الموردين",
-       "user": "المستخدم"
+      "proposedInvoicesForPaymentToTheSupplier": "الفواتير المقترحة للدفع للمورد",
+      "supplierInvoicesReport": "تقرير فواتير الموردين",
+      "deleteReport": "حذف المعايير",
+      "viewReport": "عرض التقرير",
+      "searchCriteria": "معايير البحث",
+      "thePeriodFrom": "الفتره من",
+      "to": "الي",
+      "PurchaseOrderNumber": "رقم امر الشراء",
+      "openThisSelectMenu": "افتح قائمه التحديد",
+      "supplierInvoiceNumber": "رقم فاتوره المورد",
+      "supplier": "المورد",
+      "invoiceType": "نوع الفاتوره",
+      "proposedPaymentStatus": "حاله الدفع المقترحه",
+      "supplierGroup": "مجموعه الموردين",
+      "user": "المستخدم"
     },
     "pendingSteps": {
       "title": "الطلبات المعلقة للمستخدم",
@@ -2390,7 +2392,12 @@
       "startVisit": " ابدا الزياره",
       "details": "التفاضيل ",
       "pending": "قيد الانتظار",
-      "contact": "جهة الاتصال: جون سميث"
+      "contact": "جهة الاتصال: جون سميث",
+      "Schedule": "مجدولة",
+      "Start": "تم البدء",
+      "Complete": "تم الانتهاء",
+      "Cancel": "تم الالغاء",
+      "Delay": "مؤجلة"
     },
     "startVisits": {
       "title": " بدايه الزياره",
@@ -2616,9 +2623,9 @@
       "Draft": "مسودة",
       "Approved": "تاكيد",
       "Cancelled": "إلغاء",
-      "allPlan":"كل الخطط",
-      "copyPlan":"نسخ خطة",
-      "changeStatus":"تغيير الحالة"
+      "allPlan": "كل الخطط",
+      "copyPlan": "نسخ خطة",
+      "changeStatus": "تغيير الحالة"
     },
     "salesRequest": {
       "title": "طلبات المبيعات"
