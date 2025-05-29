@@ -2630,6 +2630,7 @@
       "addCustomer": "Add Select",
       "customerName": "Customer ",
       "addAll": "Add all",
+      "clearAll": "Clear all",
       "date": "Date",
       "visitType": "Visit type",
       "visitObjectives": "Objectives",
@@ -2663,7 +2664,20 @@
       "Cancelled":"Cancelled",
       "allPlan":"All Plan",
       "copyPlan":"Copy Plan",
-      "changeStatus":"Change Status"
+      "changeStatus":"Change Status",
+      "quickActions": "Quick Actions",
+      "sortByDate": "Sort by Date",
+      "validateAll": "Validate All",
+      "visitsSorted": "Visits sorted by date",
+      "allVisitsValid": "All visits validated",
+      "foundInvalidVisits": "Found invalid visits",
+      "clientSelectionHint": "Select the clients you want to include in the plan",
+      "noVisitsMessage": "No visits available for the selected criteria",
+      "totalVisits": "Total visits",
+      "visitStatistics": "Visit Statistics",
+      "otherVisits": "Other Visits",
+      "planSummary": "Plan Summary",
+      "dateExcept":"Date Except"
     }
   },
   

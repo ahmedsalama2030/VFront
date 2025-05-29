@@ -2589,9 +2589,10 @@
       "cityName": "المدينة",
       "regionId": "المنطقة",
       "regionName": "المنطقة",
-      "addCustomer": "إضافة المختار",
+      "addCustomer": "عرض المحدد",
       "customerName": "إسم العميل",
-      "addAll": "إضافة الكل",
+      "addAll": "عرض الكل",
+      "clearAll": "مسح الكل",
       "date": "تاريخ الزيارة",
       "visitType": "نوع الزيارة",
       "visitObjectives": "أهداف الزيارة",
@@ -2625,7 +2626,21 @@
       "Cancelled": "إلغاء",
       "allPlan": "كل الخطط",
       "copyPlan": "نسخ خطة",
-      "changeStatus": "تغيير الحالة"
+      "changeStatus": "تغيير الحالة",
+      "quickActions": "إجراءات سريعة",
+      "sortByDate": "ترتيب حسب التاريخ",
+      "validateAll": "تحقق من الكل",
+      "visitsSorted": "الزيارات مرتبة حسب التاريخ",
+      "allVisitsValid": "تم التحقق من جميع الزيارات",
+      "foundInvalidVisits": "تم العثور على زيارات غير صالحة",
+      "clientSelectionHint": "حدد العملاء الذين تريد تضمينهم في الخطة",
+      "noVisitsMessage": "لا توجد زيارات متاحة في هذه الخطة",
+      "totalVisits": "إجمالي الزيارات",
+      "visitStatistics": "إحصائيات الزيارة",
+      "otherVisits": "زيارات أخرى",
+      "planSummary": "ملخص الخطة",
+      "dateExcept":"الايام المستثناه"
+
     },
     "salesRequest": {
       "title": "طلبات المبيعات"
