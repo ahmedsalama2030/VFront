@@ -2413,8 +2413,8 @@
       "monthlyNewCustomersTarget":"Monthly new customers target",
       "clientAchieved":"New Customers",
       "customer":"Customer"
-      
     },
+
     "startVisits": {
       "title": "Start Visits",
       "titleOperation": "Start Visits",
@@ -2423,8 +2423,14 @@
       "currentLocation": "Current Location: ",
       "sales": "Sales",
       "shelf": "Shelf",
+      "InProgress": "In Progress",
+      "Actions": "Actions",
+      "Results": "Results",
+      "Completed": "Completed",
+      "NotStarted": "Not Started",
       "visitGoals": "Visit Goals",
       "visitInformation": "Visit Information",
+      "visitSaveSuccess": "Thank you ! Your Visit is Completed !",
       "collection": "Collection",
       "order": "Order",
       "audit": "Audit",
@@ -2464,6 +2470,9 @@
     "visitDetails": {
       "title": "Details Visit",
       "titleOperation": "Details Visit",
+      "leaveComments": "Leave a Comments",
+      "enterComments": "Enter a Comments",
+      "comment": "Comment",
       "startVisit": "Start Visit",
       "manageVisits": "Manage Visits",
       "visitHistory": "Visit History",
@@ -2471,14 +2480,16 @@
       "missed": "Missed",
       "viewDetails": "View Details",
       "collection": "Collection",
-      "noNotesaAvailable": "No notes available."
+      "noNotesAvailable": "No notes available.",
+      "noCommentsAvailable": "No comments available.",
+      "comments": "Comments"
     },
 
     "mangevisits": {
       "title": "Mange Visits",
       "titleOperation": "Mange Visits",
       "ongoing": "Ongoing",
-      "visitActions": "Visit Actions",
+      "visitActions": "Choose an action to manage this visit:",
       "rescheduleVisit": "Reschedule Visit",
       "cancelVisit": "Cancel Visit",
       "reasonForRescheduling": "Reason for Rescheduling *",
@@ -2677,7 +2688,12 @@
       "visitStatistics": "Visit Statistics",
       "otherVisits": "Other Visits",
       "planSummary": "Plan Summary",
-      "dateExcept":"Date Except"
+      "dateExcept":"Date Except",
+      "displayMap":"Map",
+      "sortByMap":"Sort by location",
+      "selectTotalVisitDaily":"Select total visit daily",
+      "selectTotalDateFromTo":"Select plan date from-to",
+      "visitsSortedLocation":"Visits sorted by location"
     }
   },
   
