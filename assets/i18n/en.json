@@ -380,7 +380,8 @@
       "sure":"Sure",
       "approve":"Approve",
       "add":"Add",
-      "attachment":"Attachment"
+      "attachment":"Attachment",
+      "take":"Take"
     },
 
     "permission": {
@@ -2345,7 +2346,10 @@
       "Start": "Start",
       "Complete": "Complete",
       "Cancel": "Cancel",
-      "Delay": "Schedule"
+      "Delay": "Schedule",
+      "orderCount": "Sales Orders",
+      "requestCount": "Sales requests ",
+      "collectionCount": "Collections"
     },
     "dashboardSalesRep": {
       "title": "Dashboard Sales Rep",
@@ -2464,13 +2468,15 @@
       "submitVisit": "Submit Visit",
       "allvisitsteps": "All visit steps have been successfully executed.Thank you for your time and cooperation.",
       "backToDashboard": "Back To Dashboard",
+      "backToVisits": "Back To Visits",
       "back": "Back",
-      "next": "Next"
+      "next": "Next",
+      "takeImage":"Take Image"
     },
     "visitDetails": {
       "title": "Details Visit",
       "titleOperation": "Details Visit",
-      "leaveComments": "Leave a Comments",
+      "leaveComment": "Leave a Comment",
       "enterComments": "Enter a Comments",
       "comment": "Comment",
       "startVisit": "Start Visit",
