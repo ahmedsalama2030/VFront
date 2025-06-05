@@ -379,7 +379,9 @@
       "approve": "موافقة",
       "add": "إضافة",
       "attachment":"المرفقات",
-      "take":"إلتقط"
+      "take":"إلتقاط صورة",
+      "openCamera":"فتح الكاميرا",
+      "finish":"إنهاء"
     },
     "permission": {
       "view": "رؤية الشاشه",
@@ -2424,7 +2426,7 @@
       "visitInformation": "معلومات الزيارة",
       "visitPurpose": " غرض الزيارة",
       "visitNotes": " ملاحظات الزيارة",
-      "shelfAudit": " كشف االر",
+      "shelfAudit": " كشف  رف",
       "beverages": "المشربات",
       "uploadPhoto": " ارفاق صوره",
       "cleaningProducts": "تنظيف المنتجات ",
@@ -2454,7 +2456,14 @@
       "backToVisits": "العوده الي الزيارات",
       "back": "خلف",
       "next": "التالي",
-      "takeImage":"إلتقاط صورة"
+      "takeImage": "إلتقاط صورة",
+      "mustTakeImage": "يجب إلتقاط صورة حيه للزيارة",
+      "mustDetermineStatus": "يجب تحديد حالة الزيارة إيجابية او سلبية",
+      "selectCategory": "أختر فئة",
+      "mustUploadFiles": "يجب رفع كل الصور الفئات",
+      "mustTakeCategoryImage": "يجب وضع الفئات و إرفاق الصور لها ",
+      "visitInfo": "بيانات الزيارة",
+      "clientCount":"فتح عميل"
     },
     "visitDetails": {
       "title": " تفاصيل الزيارة ",

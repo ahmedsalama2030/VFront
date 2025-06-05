@@ -381,7 +381,9 @@
       "approve":"Approve",
       "add":"Add",
       "attachment":"Attachment",
-      "take":"Take"
+      "take":"Take Photo",
+      "openCamera":"Open Camera",
+      "finish":"Finish"
     },
 
     "permission": {
@@ -2471,7 +2473,14 @@
       "backToVisits": "Back To Visits",
       "back": "Back",
       "next": "Next",
-      "takeImage":"Take Image"
+      "takeImage":"Take Image",
+      "mustTakeImage":"Must take image",
+      "mustDetermineStatus":"Must Determine Status",
+      "selectCategory":"select Category",
+      "mustUploadFiles":"must Upload All Files Category",
+      "mustTakeCategoryImage":"Must put category with images ",
+      "visitInfo":"Visit Info",
+      "clientCount":"client Open"
     },
     "visitDetails": {
       "title": "Details Visit",
