@@ -1403,8 +1403,10 @@
       "InvoiceVIP": "فاتورة (VIP)",
       "Invoice": "فاتورة",
       "CampaignAGent": "حملة تسويقية",
-      "NewOrder": "تحديد موقع(طلب جديد)",
-      "CallCounter": "لم يتم الرد (ؤقة)"
+      "NewOrder": "  (طلب جديد)",
+      "CallCounter": "لم يتم الرد (ؤقة)",
+      "SalesOrder":"أمر بيع",
+      "ClientCollection":"تحصيل عميل"
     },
     "banners": {
       "title": "لافتات اعلانية",
