@@ -328,6 +328,7 @@
     "table": {
       "name": "Name",
       "isActive": "Is Active",
+      "isActiveNew": "Is Active",
       "lastModificationTime": "Last Modified",
       "pFrom": "From",
       "item": "Item",
@@ -341,6 +342,8 @@
       "notes": "Notes",
       "active": "Active",
       "noActive": "No Active",
+      "activeNew": "Active",
+      "noActiveNew": "Not Active",
       "all": "All",
       "nameAr": "Arabic Name",
       "nameEn": "English Name",

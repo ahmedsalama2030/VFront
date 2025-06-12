@@ -325,6 +325,7 @@
     "table": {
       "name": "الاسم",
       "isActive": "هل نشط",
+      "isActiveNew": "هل مفعل",
       "lastModificationTime": "آخر تعديل",
       "pFrom": "من",
       "item": "عنصر",
@@ -343,6 +344,8 @@
       "id": "الكود",
       "active": "نشط",
       "noActive": "غير نشط",
+      "activeNew": "مفعل",
+      "noActiveNew": "غير مفعل",
       "creator": "المنشى",
       "isMain": "أساسى ؟ ",
       "refId": "Ref_Id",
