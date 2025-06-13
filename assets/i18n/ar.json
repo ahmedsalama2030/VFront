@@ -892,7 +892,8 @@
       "title": "عملاء الخدمات"
     },
     "clientCompany": {
-      "title": "عملاء الشركات"
+      "title": "عملاء الشركات",
+      "title2": "عملائي"
     }
   },
   "orderManagement": {
@@ -1766,6 +1767,26 @@
     }
   },
   "statistics": {
+    "salesReports": {
+      "title": "لوحة معلومات أداء المبيعات",
+      "totalRevenue": "إجمالي الإيرادات",
+      "targetAchievement": "تحقيق الهدف",
+      "totalDeals": "إجمالي الصفقات",
+      "newCustomers": "عملاء جدد",
+      "vsLastPeriod": "مقابل الفترة الماضية",
+      "topPerformers": "أفضل المؤدين",
+      "topCustomer": "أعلى عميل",
+      "topProduct": "أعلى منتج",
+      "topSalesPerson": "أعلى مندوب مبيعات",
+      "type": "النوع",
+      "amount": "الكمية",
+      "quantity": "العدد المباع",
+      "deals": "الصفقات",
+      "avgDealSize": "متوسط حجم الصفقة",
+      "city": "المدينة",
+      "category": "التصنيف",
+      "empty": ""
+    },
     "orderReview": {
       "title": "أحصائية تقييم الطلبات",
       "title2": "تفاصيل أحصائية تقييم الطلبات",

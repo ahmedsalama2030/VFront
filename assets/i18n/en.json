@@ -1000,7 +1000,8 @@
       "title": "Customer Services"
     },
     "clientCompany":{
-      "title": "Customer Product"
+      "title": "Customer Product",
+      "title2": "My Customers"
     }
   },
   "orderManagement": {
@@ -1893,6 +1894,26 @@
     }
   },
   "statistics": {
+    "salesReports": {
+      "title": "Sales Performance Dashboard",
+      "newCustomers": "New Customers",
+      "totalDeals": "Total Deals",
+      "targetAchievement": "Target Achievement",
+      "totalRevenue": "Total Revenue",
+      "vsLastPeriod": "vs last period",
+      "topPerformers": "Top Performers",
+      "topCustomer": "Top Customer",
+      "topProduct": "Top Product",
+      "topSalesPerson": "Top Sales Person",
+      "type": "Type",
+      "amount": "Amount",
+      "quantity": "Quantity Sold",
+      "deals": "Deals",
+      "avgDealSize": "Avg Deal Size",
+      "city": "City",
+      "category": "Category",
+      "empty": ""
+    },
     "orderReview": {
       "title": "Orders Review",
       "titleOperation": "Order Review",
