@@ -959,7 +959,7 @@
       "AssignedTo": "مسند الى",
       "VisitDate": "تاريخ الزيارة",
       "VisitTime": "وقت الزيارة",
-      "OrderDetails": "تفاضيل الطلب",
+      "OrderDetails": "تفاصيل الطلب",
       "clientInfo": "معلومات العميل",
       "serviceCategory": "فئة خدمة",
       "ServiceName": "اسم الخدمة",
@@ -2433,7 +2433,7 @@
       "Business": "123 Business Avw Commerce City، كاليفورنيا 12345",
       "lastVisit": "آخر زيارة 2 مايو 2025",
       "startVisit": " ابدا الزيارة",
-      "details": "التفاضيل ",
+      "details": "التفاصيل ",
       "pending": "قيد الانتظار",
       "contact": "جهة الاتصال: جون سميث",
       "Schedule": "مجدولة",
@@ -2502,7 +2502,7 @@
       "selectCategory": "أختر فئة",
       "mustUploadFiles": "يجب رفع كل الصور الفئات",
       "mustTakeCategoryImage": "يجب وضع الفئات و إرفاق الصور لها ",
-      "visitInfo": "بيانات الزيارة",
+      "visitInfo": "البدء",
       "clientCount":"فتح عميل"
     },
     "visitDetails": {
