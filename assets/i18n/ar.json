@@ -452,7 +452,9 @@
       "profile": "بروفيل العميل",
       "active": "نشط",
       "copyPlan": "نسخ خطة",
-      "detail": "التفاصيل"
+      "detail": "التفاصيل",
+      "update": "تحديث ",
+      "updateAll": "تحديث الكل"
     },
     "common": {
       "Web": "الموقع الخارجى",
@@ -890,6 +892,9 @@
   "clientManagement": {
     "client": {
       "title": "عملاء الخدمات"
+    },
+    "clientAccount": {
+      "title": "حساب العملاء"
     },
     "clientCompany": {
       "title": "عملاء الشركات",
@@ -1632,7 +1637,7 @@
       "odooId": "Ref_ID",
       "priceListName": "الخصم",
       "invoiceDayDue": "عدد أيام أستحقاق القاتورة",
-      "dept": "المديونية",
+      "dept": "مدين ",
       "isComplete": "أستكمال الملف",
       "numberMunicipalLicense": "رقم رخصه البلدية",
       "orders": "أوامر البيع",
@@ -1642,7 +1647,14 @@
       "visits": "الزيارات",
       "isCompleted": "مستكمل",
       "isNotComplete": "غير مستكمل",
-      "branches": "الشركه - الفرع"
+      "openBalance": "الرصيد الافتتاحى",
+      "branches": "الشركه - الفرع",
+      "clientAccount": "حساب العملاء",
+      "credit": "دائن ",
+      "totalBalance": "إجمالى الرصيد",
+      "totalDue": "إجمالى المستحق",
+      "calcAccount": "إعادة تجميع الحساب ",
+      "creditLimit":"  الحد الأتمانى"
     },
     "clientCompany": {
       "title": "عملاء الشركة"
@@ -1663,6 +1675,9 @@
     },
     "CrmCompanyClient": {
       "title": "عملاء  منتجات"
+    },
+    "clientAccount":{
+      "title": "حساب العملاء"
     },
     "leads": {
       "title": "العملاء المحتملين",

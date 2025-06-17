@@ -455,8 +455,10 @@
       "completion": "Completion",
       "profile": "Profile",
       "active": "Active",
-      "copyPlan":"Copy Plan",
-      "detail":"Detail"
+      "copyPlan": "Copy Plan",
+      "detail": "Detail",
+      "update": "Update",
+      "updateAll": "Update All"
     },
     "common":{
       "Web": "Web",
@@ -999,7 +1001,10 @@
     "client": {
       "title": "Customer Services"
     },
-    "clientCompany":{
+    "clientAccount": {
+      "title": "Customer Account"
+    },
+    "clientCompany": {
       "title": "Customer Product",
       "title2": "My Customers"
     }
@@ -1744,15 +1749,22 @@
       "invoiceDayDue": "# Invoice Day Due",
       "dept": "Dept",
       "isComplete": "Is Complete",
-      "numberMunicipalLicense":"License Number ",
-      "orders":"Orders",
-      "collections":"Collections",
-      "invoices":"Invoices",
-      "map":"Location",
-      "visits":"Visits",
-      "isCompleted":"Completed",
-      "isNotComplete":"Not Complete",
-      "branches":"Branches"
+      "numberMunicipalLicense": "License Number ",
+      "orders": "Orders",
+      "collections": "Collections",
+      "invoices": "Invoices",
+      "map": "Location",
+      "visits": "Visits",
+      "isCompleted": "Completed",
+      "isNotComplete": "Not Complete",
+      "branches": "Branches",
+      "openBalance":"Open Balance",
+      "clientAccount": "Client Account",
+      "credit": "credit",
+      "totalBalance": "totalBalance",
+      "totalDue": "totalDue",
+      "calcAccount":"Account Reconciliation",
+      "creditLimit":"Credit Limit"
     },
     "clientCompany": {
       "title": "Customers Products"
@@ -1784,6 +1796,9 @@
     },
     "CrmCompanyClient": {
       "title": "Customers Company"
+    },
+    "clientAccount": {
+      "title": "Customers Account  "
     },
     "leads": {
       "title": "Leads",
@@ -1880,7 +1895,7 @@
     "clientGroups": {
       "title": "Customers Category",
       "titleOperation": "Customers Category",
-      "clientLimitDefault":"Credit limit"
+      "clientLimitDefault": "Credit limit"
     },
     "reviewstatistics": {
       "title": "Review statistics",
