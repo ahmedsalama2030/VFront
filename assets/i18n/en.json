@@ -353,7 +353,19 @@
       "isMain": "Is Main",
       "refId": "Ref_Id",
       "apiId": "Api Id",
-      "currancy": "SAR"
+      "currancy": "SAR",
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
     },
     "action": {
       "register": "Register",

@@ -350,8 +350,19 @@
       "isMain": "أساسى ؟ ",
       "refId": "Ref_Id",
       "apiId": "Api_Id",
-      "currancy":"ريال"
-  
+      "currancy": "ريال",
+      "january": "يناير",
+      "february": "فبراير",
+      "march": "مارس",
+      "april": "أبريل",
+      "may": "مايو",
+      "june": "يونيو",
+      "july": "يوليو",
+      "august": "أغسطس",
+      "september": "سبتمبر",
+      "october": "أكتوبر",
+      "november": "نوفمبر",
+      "december": "ديسمبر"
     },
     "action": {
       "register": "تسجيل",
