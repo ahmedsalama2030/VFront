@@ -1952,7 +1952,11 @@
       "keyInsights": "Key Insights",
       "selectYear": "Select Year",
       "selectQuarter": "Select Quarter",
-      "empty": ""
+      "empty": "",
+      "collectionVSTarget":"collection & Target",
+      "revenue": "Revenue",
+      "target": "Target",
+      "collection": "Collection"
     },
     "orderReview": {
       "title": "Orders Review",

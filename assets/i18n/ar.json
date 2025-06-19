@@ -1825,7 +1825,11 @@
       "selectYear": "اختر السنة",
       "selectQuarter": "اختر الربع",
       "empty": "",
-      "collectionVSTarget":"التحصيلات مقابل الهدف"
+      "collectionVSTarget": "التحصيلات مقابل الهدف",
+      "revenue": "الايراد",
+      "target": "الهدف",
+      "collection": "التحصيل"
+      
     },
     "orderReview": {
       "title": "أحصائية تقييم الطلبات",
