@@ -2122,7 +2122,8 @@
       "backOnly":"Back Created",
       "backCreate":"Back to creator",
       "creationName":"Creation",
-      "trackStep":"Track Approval"
+      "trackStep":"Track Approval",
+      "dateApprove":"Date Approve"
       
     },
     "reportBuilder":{

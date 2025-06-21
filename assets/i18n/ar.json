@@ -2101,7 +2101,8 @@
       "backOnly": "رجوع للسابق  ",
       "backCreate": "رجوع منشى الطلب",
       "creationName": "صاحب الأجراء",
-      "trackStep": "تتبع الموافقات"
+      "trackStep": "تتبع الموافقات",
+      "dateApprove":"تاريخ الإعتماد"
     },
     "reportBuilder":{
       "title": " منشئ التقرير",
