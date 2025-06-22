@@ -1684,6 +1684,9 @@
     "CrmClient": {
       "title": "عملاء الخدمات"
     },
+    "CrmMyClient":{
+      "title": "عملائى"
+    },
     "CrmCompanyClient": {
       "title": "عملاء  منتجات"
     },

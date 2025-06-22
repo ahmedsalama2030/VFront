@@ -1809,6 +1809,9 @@
     "CrmCompanyClient": {
       "title": "Customers Company"
     },
+    "CrmMyClient": {
+      "title": "My Client"
+    },
     "clientAccount": {
       "title": "Customers Account  "
     },
