@@ -2105,7 +2105,8 @@
       "backCreate": "رجوع منشى الطلب",
       "creationName": "صاحب الأجراء",
       "trackStep": "تتبع الموافقات",
-      "dateApprove":"تاريخ الإعتماد"
+      "dateApprove":"تاريخ أخر إعتماد",
+      "period":"المدة"
     },
     "reportBuilder":{
       "title": " منشئ التقرير",

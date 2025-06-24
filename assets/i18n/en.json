@@ -2126,7 +2126,8 @@
       "backCreate":"Back to creator",
       "creationName":"Creation",
       "trackStep":"Track Approval",
-      "dateApprove":"Date Approve"
+      "dateApprove":"Date Approve",
+      "period":"Period"
       
     },
     "reportBuilder":{
