@@ -1770,13 +1770,15 @@
       "isCompleted": "Completed",
       "isNotComplete": "Not Complete",
       "branches": "Branches",
-      "openBalance":"Open Balance",
+      "openBalance": "Open Balance",
       "clientAccount": "Client Account",
       "credit": "credit",
       "totalBalance": "totalBalance",
       "totalDue": "totalDue",
-      "calcAccount":"Account Reconciliation",
-      "creditLimit":"Credit Limit"
+      "calcAccount": "Account Reconciliation",
+      "creditLimit": "Credit Limit",
+      "lastInvoice": "Last Invoice",
+      "totalCredit": "Total Credit"
     },
     "clientCompany": {
       "title": "Customers Products"
@@ -2546,14 +2548,16 @@
       "backToVisits": "Back To Visits",
       "back": "Back",
       "next": "Next",
-      "takeImage":"Take Image",
-      "mustTakeImage":"Must take image",
-      "mustDetermineStatus":"Must Determine Status",
-      "selectCategory":"select Category",
-      "mustUploadFiles":"must Upload All Files Category",
-      "mustTakeCategoryImage":"Must put category with images ",
-      "visitInfo":"Start",
-      "clientCount":"client Open"
+      "takeImage": "Take Image",
+      "mustTakeImage": "Must take image",
+      "mustDetermineStatus": "Must Determine Status",
+      "selectCategory": "select Category",
+      "mustUploadFiles": "must Upload All Files Category",
+      "mustTakeCategoryImage": "Must put category with images ",
+      "visitInfo": "Start",
+      "clientCount": "client Open",
+      "arrive": "Arrived",
+      "notArrive": "Not arrived"
     },
     "visitDetails": {
       "title": "Details Visit",

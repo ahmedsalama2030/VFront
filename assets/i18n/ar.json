@@ -1665,7 +1665,9 @@
       "totalBalance": "إجمالى الرصيد",
       "totalDue": "إجمالى المستحق",
       "calcAccount": "إعادة تجميع الحساب ",
-      "creditLimit":"  الحد الأتمانى"
+      "creditLimit": "  الحد الأتمانى",
+      "lastInvoice": "أخر فاتورة",
+      "totalCredit": "إجمالى الدائن"
     },
     "clientCompany": {
       "title": "عملاء الشركة"
@@ -2538,7 +2540,9 @@
       "mustUploadFiles": "يجب رفع كل الصور الفئات",
       "mustTakeCategoryImage": "يجب وضع الفئات و إرفاق الصور لها ",
       "visitInfo": "البدء",
-      "clientCount":"فتح عميل"
+      "clientCount": "فتح عميل",
+      "arrive": "تم الوصول",
+      "notArrive": "لم تصل للموقع"
     },
     "visitDetails": {
       "title": " تفاصيل الزيارة ",
