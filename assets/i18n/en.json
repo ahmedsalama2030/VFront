@@ -2557,7 +2557,11 @@
       "visitInfo": "Start",
       "clientCount": "client Open",
       "arrive": "Arrived",
-      "notArrive": "Not arrived"
+      "notArrive": "Not arrived",
+      "distance": "distance",
+      "meter": "M",
+      "listCarmera": "List cameras",
+      "selectCamera": "Select camera"
     },
     "visitDetails": {
       "title": "Details Visit",
