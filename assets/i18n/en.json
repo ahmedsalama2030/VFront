@@ -320,10 +320,10 @@
       "filedIdRequired": "This field is required",
       "areyouSureDelete": "Are you sure you want to delete?",
       "employeeHasTargetInSamePeriod": "Employee Has Target Type In Same Period",
-      "AllQuntityShippingOrDelivery":"All quantity are  in shipping or delivery !",
-      "servicesFound":"Service Found .. Plz Remove Products First",
-      "ClientLimitLessNet":"Not allow . Must increase client limit",
-      "NumberMunicipalLicenseFound":" Municipal License Found"
+      "AllQuntityShippingOrDelivery": "All quantity are  in shipping or delivery !",
+      "servicesFound": "Service Found .. Plz Remove Products First",
+      "ClientLimitLessNet": "Not allow . Must increase client limit",
+      "NumberMunicipalLicenseFound": " Municipal License Found"
     },
     "table": {
       "name": "Name",
@@ -389,16 +389,16 @@
       "loading": "Loading",
       "proceed": "proceed",
       "saveAndSend": "Save & Send",
-      "print":"Print",
-      "send":"Send",
-      "update":"Update",
-      "sure":"Sure",
-      "approve":"Approve",
-      "add":"Add",
-      "attachment":"Attachment",
-      "take":"Take Photo",
-      "openCamera":"Open Camera",
-      "finish":"Finish"
+      "print": "Print",
+      "send": "Send",
+      "update": "Update",
+      "sure": "Sure",
+      "approve": "Approve",
+      "add": "Add",
+      "attachment": "Attachment",
+      "take": "Take Photo",
+      "openCamera": "Open Camera",
+      "finish": "Finish"
     },
 
     "permission": {
@@ -470,14 +470,16 @@
       "copyPlan": "Copy Plan",
       "detail": "Detail",
       "update": "Update",
-      "updateAll": "Update All"
+      "updateAll": "Update All",
+      "salesPersonView": "Sales Persons",
+      "salesView": "Sales Dashboard"
     },
-    "common":{
+    "common": {
       "Web": "Web",
       "Mobile": "Mobile",
       "Dashbord": "Dashbord",
-      "Other":"Other",
-      "platforms":"Platforms"
+      "Other": "Other",
+      "platforms": "Platforms"
     }
   },
   "layout": {
@@ -501,7 +503,8 @@
       "store": "Stores",
       "ticketSupport": "Tickets",
       "approvals": "Approvals",
-      "sales": "Sales"
+      "sales": "Sales",
+      "adminpanel": "Admin Panel"
     },
     "topbar": {
       "quickLinks": "Quick Links",
@@ -516,9 +519,9 @@
       "alerts": "Alerts",
       "markALLSee": "Mark ALL Read",
       "timeAvailable": "Time Available",
-      "noNotifications":"No notifications",
-      "notificationAlert":"Alerts",
-      "approvals":"Approvals"
+      "noNotifications": "No notifications",
+      "notificationAlert": "Alerts",
+      "approvals": "Approvals"
     }
   },
   "auth": {
@@ -876,13 +879,13 @@
       "addEmployee": "Add Employee",
       "position": "Position",
       "dayOff": "Day Off",
-      "cityName":"Cities",
-      "contacts":"Contacts",
-      "store":"Store"
+      "cityName": "Cities",
+      "contacts": "Contacts",
+      "store": "Store"
     },
     "positionName": {
       "title": "Jobs",
-      "titleOperation":"Job",
+      "titleOperation": "Job",
       "addPosition": "Add Job Name",
       "nameEn": "Name (En)",
       "nameAr": "Name (Ar)",
@@ -1257,11 +1260,11 @@
       "itemFree": "Free",
       "itemQuantity": "Item quantity",
       "freeQuantity": "Free quantity",
-      "costAfterDiscount":"After discount",
-      "offers":"Offers",
-      "sendOdoo":"Send Odoo",
-      "send":"Send",
-      "noSend":"Not Send",
+      "costAfterDiscount": "After discount",
+      "offers": "Offers",
+      "sendOdoo": "Send Odoo",
+      "send": "Send",
+      "noSend": "Not Send",
       "newOrders": {
         "title": "New Orders",
         "titleOperation": "New"
@@ -1460,7 +1463,7 @@
       "SalesMarketingSupervisor": "Sales Marketing Supervisor",
       "HRManager": "HR Manager",
       "SalesMarketingSpecialist": "Sales Marketing Specialist",
-      "SalseManager":"Salse Manager",
+      "SalseManager": "Salse Manager",
       "Marketing": "Marketing",
       "Accountant": "Accountant",
       "Other": "Other",
@@ -1487,9 +1490,9 @@
       "active": "Active",
       "noActive": "No Active",
       "SalesPerson": "Sales Person",
-      "Driver":"Driver",
-      "StoreKepper":"Store Kepper",
-      "userNameContainSpace":"UserName must not  contain  any space"
+      "Driver": "Driver",
+      "StoreKepper": "Store Kepper",
+      "userNameContainSpace": "UserName must not  contain  any space"
     },
     "role": {
       "title": "Roles",
@@ -1675,7 +1678,7 @@
       "invoiceMessageWithOutDiscount": "Invoice Message With Out Discount",
       "tax": "Tax",
       "salesOrderApproval": "Set sales order approval?",
-      "sendInvoiceOdoo":"Send invoice to odoo direct "
+      "sendInvoiceOdoo": "Send invoice to odoo direct "
     },
     "systemSchedule": {
       "title": "System Schedules",
@@ -1707,7 +1710,7 @@
       "fiscalPositions": "Fiscal Positions",
       "taxes": "Taxes"
     },
-    "taxesID":{
+    "taxesID": {
       "title": "taxesID ",
       "titleOperation": "taxesID"
     }
@@ -1782,7 +1785,6 @@
     },
     "clientCompany": {
       "title": "Customers Products"
-
     },
     "clientProfile": {
       "profile": "Profile",
@@ -1958,7 +1960,7 @@
       "selectYear": "Select Year",
       "selectQuarter": "Select Quarter",
       "empty": "",
-      "collectionVSTarget":"collection & Target",
+      "collectionVSTarget": "collection & Target",
       "revenue": "Revenue",
       "target": "Target",
       "collection": "Collection"
@@ -2006,7 +2008,7 @@
       "totalCity": "Total City",
       "totalAvailable": "No Order"
     },
-    "reportBuilder":{
+    "reportBuilder": {
       "title": "Report Builder",
       "targetSalesCollections": "Target sales & collections",
       "comprehensiveSalesReport": "Comprehensive sales",
@@ -2026,7 +2028,7 @@
       "mustSelectedReport": "Must Selected Report",
       "mustSelectedDate": "Must Selected Date",
       "checkTargetEmployee": "Fail , Plz Check Employee Target Selected",
-      "stores":"Stores"
+      "stores": "Stores"
     }
   },
   "store": {
@@ -2049,11 +2051,10 @@
       "nameEn": "Name (En)",
       "nameAr": "Name (Ar)",
       "isActive": "Is Active",
-      "type":"Type",
-      "OpenCustomerAccount":"Request Open Customer",
-      "CustomerLimitRequest":"Request Increase   Customer Limit",
-      "ProductSalesRequest":"Request   Sales Order"
-
+      "type": "Type",
+      "OpenCustomerAccount": "Request Open Customer",
+      "CustomerLimitRequest": "Request Increase   Customer Limit",
+      "ProductSalesRequest": "Request   Sales Order"
     },
     "departments": {
       "title": "departments",
@@ -2121,18 +2122,17 @@
       "userApprove": "Employee Name",
       "approvedAt": "Time",
       "postionName": "Job",
-      "Pending":"Pending",
-      "rollBack":"RollBack",
-      "rollbackReason":"Reason",
-      "backOnly":"Back Created",
-      "backCreate":"Back to creator",
-      "creationName":"Creation",
-      "trackStep":"Track Approval",
-      "dateApprove":"Date Approve",
-      "period":"Period"
-      
+      "Pending": "Pending",
+      "rollBack": "RollBack",
+      "rollbackReason": "Reason",
+      "backOnly": "Back Created",
+      "backCreate": "Back to creator",
+      "creationName": "Creation",
+      "trackStep": "Track Approval",
+      "dateApprove": "Date Approve",
+      "period": "Period"
     },
-    "reportBuilder":{
+    "reportBuilder": {
       "title": "Report Builder",
       "totalBySupplierGroups": "Total By Supplier Groups",
       "totalBySupplier": "Total By Supplier ",
@@ -2165,7 +2165,7 @@
       "notes": "Notes",
       "isActive": "Is Active"
     },
-    "customerRequest":{
+    "customerRequest": {
       "title": "Request new customer",
       "customerInfo": "Customer  info",
       "customerName": "Customer name",
@@ -2489,11 +2489,11 @@
       "recentActivity": "Recent Activity",
       "collection": "Collection",
       "follow-up": "Follow-up",
-      "allCustomers":"All customers",
-      "more":"More",
-      "monthlyNewCustomersTarget":"Monthly new customers target",
-      "clientAchieved":"New Customers",
-      "customer":"Customer"
+      "allCustomers": "All customers",
+      "more": "More",
+      "monthlyNewCustomersTarget": "Monthly new customers target",
+      "clientAchieved": "New Customers",
+      "customer": "Customer"
     },
 
     "startVisits": {
@@ -2760,18 +2760,18 @@
       "mustSelectTotalVisitDaily": "Must select total visit daily",
       "mustSelectVisitType": "Must select visit type",
       "mustSelectVisitObjective": "Must select visit objectives",
-      "summary":"Summary plan",
-      "countVisit":"Visit Count",
-      "periodicVisits":"Periodic Visits",
-      "marketingVisits":"Marketing Visits",
-      "other":"Other",
-      "statusName":"Status Name",
-      "Draft":"Draft",
-      "Approved":"Approved",
-      "Cancelled":"Cancelled",
-      "allPlan":"All Plan",
-      "copyPlan":"Copy Plan",
-      "changeStatus":"Change Status",
+      "summary": "Summary plan",
+      "countVisit": "Visit Count",
+      "periodicVisits": "Periodic Visits",
+      "marketingVisits": "Marketing Visits",
+      "other": "Other",
+      "statusName": "Status Name",
+      "Draft": "Draft",
+      "Approved": "Approved",
+      "Cancelled": "Cancelled",
+      "allPlan": "All Plan",
+      "copyPlan": "Copy Plan",
+      "changeStatus": "Change Status",
       "quickActions": "Quick Actions",
       "sortByDate": "Sort by Date",
       "validateAll": "Validate All",
@@ -2784,17 +2784,17 @@
       "visitStatistics": "Visit Statistics",
       "otherVisits": "Other Visits",
       "planSummary": "Plan Summary",
-      "dateExcept":"Date Except",
-      "displayMap":"Map",
-      "sortByMap":"Sort by location",
-      "selectTotalVisitDaily":"Select total visit daily",
-      "selectTotalDateFromTo":"Select plan date from-to",
-      "visitsSortedLocation":"Visits sorted by location"
+      "dateExcept": "Date Except",
+      "displayMap": "Map",
+      "sortByMap": "Sort by location",
+      "selectTotalVisitDaily": "Select total visit daily",
+      "selectTotalDateFromTo": "Select plan date from-to",
+      "visitsSortedLocation": "Visits sorted by location"
     }
   },
-  
-  "marketing":{
-    "productOffer":{
+
+  "marketing": {
+    "productOffer": {
       "title": "Product offers",
       "endDate": "End date",
       "startDate": "Start Date",
@@ -2832,13 +2832,18 @@
       "quantityY": "Quantity-Y"
     }
   },
-  "dashboard":{
-    "main":{
+  "dashboard": {
+    "main": {
       "goodmoring": "Welcome , ",
       "targetOrderService": "Target Order Services ",
       "thisMonth": "This month",
       "lastOneMonth": "Last one month",
       "lastTwoMonth": "Last two months"
+    }
+  },
+  "Dashboard": {
+    "dashboard": {
+      "title": " Dashboard Sales    "
     }
   }
 }

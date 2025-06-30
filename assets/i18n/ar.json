@@ -465,7 +465,9 @@
       "copyPlan": "نسخ خطة",
       "detail": "التفاصيل",
       "update": "تحديث ",
-      "updateAll": "تحديث الكل"
+      "updateAll": "تحديث الكل",
+      "salesPersonView": "لوحه المندوبين",
+      "salesView": "لوحه المبيعات"
     },
     "common": {
       "Web": "الموقع الخارجى",
@@ -496,7 +498,9 @@
       "store": "إدارة المخزون",
       "ticketSupport": "تذاكر لدعم",
       "approvals": "الموافقات",
-      "sales": "مبيعات المنتجات"
+      "sales": "مبيعات المنتجات",
+      "adminpanel":"لوحة المعلومات",
+      "Dashboard":"لوحة المعلومات"
     },
     "topbar": {
       "quickLinks": "روابط سريعة",
@@ -1834,7 +1838,6 @@
       "revenue": "الايراد",
       "target": "الهدف",
       "collection": "التحصيل"
-      
     },
     "orderReview": {
       "title": "أحصائية تقييم الطلبات",
@@ -1900,6 +1903,12 @@
       "mustSelectedDate": "يجب إختيار التاريخ من -الى ",
       "checkTargetEmployee": "حدث خطأ , من فضلك تأكد من أهداتف المندوبين",
       "stores": "المستودعات"
+    },
+    "salesPanel": {
+      "title": "لو حة المبيعات"
+    },
+    "salesPersonPanel": {
+      "title": "لو حة المبيعات للمندوبين"
     }
   },
 
@@ -2815,5 +2824,11 @@
       "lastOneMonth": "Last month",
       "lastTwoMonth": "The month before last"
     }
+  },
+  "Dashboard":{
+    "dashboard":{
+      "title": " لوحه المعلومات المبيعات" 
+    }
   }
+  
 }
