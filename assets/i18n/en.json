@@ -2130,7 +2130,8 @@
       "creationName": "Creation",
       "trackStep": "Track Approval",
       "dateApprove": "Date Approve",
-      "period": "Period"
+      "period": "Period",
+      "agentName":"Customer"
     },
     "reportBuilder": {
       "title": "Report Builder",
@@ -2426,7 +2427,8 @@
       "Delay": "Schedule",
       "orderCount": "Sales Orders",
       "requestCount": "Sales requests ",
-      "collectionCount": "Collections"
+      "collectionCount": "Collections",
+      "history":"History"
     },
     "dashboardSalesRep": {
       "title": "Dashboard Sales Rep",
@@ -2578,7 +2580,10 @@
       "collection": "Collection",
       "noNotesAvailable": "No notes available.",
       "noCommentsAvailable": "No comments available.",
-      "comments": "Comments"
+      "comments": "Comments",
+      "salesRequest": "Sales Request",
+      "clientColections": "Client Colections",
+      "visitCategory": "Visit Category"
     },
 
     "mangevisits": {

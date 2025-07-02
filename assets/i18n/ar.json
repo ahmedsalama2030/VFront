@@ -2117,7 +2117,8 @@
       "creationName": "صاحب الأجراء",
       "trackStep": "تتبع الموافقات",
       "dateApprove":"تاريخ أخر إعتماد",
-      "period":"المدة"
+      "period":"المدة",
+      "agentName":"  العميل"
     },
     "reportBuilder":{
       "title": " منشئ التقرير",
@@ -2488,7 +2489,8 @@
       "Cancel": "تم الالغاء",
       "Delay": "مؤجلة",
       "orderCount": "طلبات البيع",
-      "collectionCount": "تحصيلات الزيارة"
+      "collectionCount": "تحصيلات الزيارة",
+      "history":"سجل الزيارة"
     },
     "startVisits": {
       "title": " بدايه الزيارة",
@@ -2566,14 +2568,17 @@
       "comment": "تعليق",
       "startVisit": "بدايه الزيارة ",
       "manageVisits": "إدارة الزيارة",
-      "visitHistory": "تاريخ الزيارة",
+      "visitHistory": " سجل الزيارات",
       "notes": "ملحوظات",
       "missed": "مفقود",
       "viewDetails": "عرض الزيارة",
       "collection": "المجموعات",
       "noNotesAvailable": "لا توجد ملاحظات متاحة",
       "noCommentsAvailable": "لا توجد تعليقات متاحة",
-      "comments": "التعليقات"
+      "comments": "التعليقات",
+      "salesRequest": "طلبات البيع",
+      "clientColections": "تحصيلات العميل",
+      "visitCategory": "كشف الرف"
     },
 
     "mangevisits": {
