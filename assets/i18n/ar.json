@@ -1152,6 +1152,7 @@
       "sendOdoo": "إرسال اودو",
       "send": "تم الإرسال",
       "noSend": "لم ترسل ",
+      "serviceName":"إسم الفئة",
       "newOrders": {
         "title": "الطلبات الجديدة",
         "titleOperation": "الطلبات الجديدة"
@@ -1427,7 +1428,9 @@
       "NewOrder": "  (طلب جديد)",
       "CallCounter": "لم يتم الرد (ؤقة)",
       "SalesOrder":"أمر بيع",
-      "ClientCollection":"تحصيل عميل"
+      "ClientCollection":"تحصيل عميل",
+      "ClientCollectionReminder":"تذكير التحصيلات المستحقة",
+      "VisitReminder":"تذكير الزيارات المجدوله"
     },
     "banners": {
       "title": "لافتات اعلانية",
@@ -1828,7 +1831,7 @@
       "revenueVSTarget": "الإيرادات مقابل الهدف",
       "deals&NewCustomersTrend": "مؤشرات الصفقات والعملاء الجدد",
       "averageDealSize": "متوسط حجم الصفقة",
-      "customerAcquisitionRate": "معدل اكتساب العملاء",
+      "customerAcquisitionRate": "متوسط عدد العملاء",
       "avgRevenuePerPeriod": "متوسط الإيرادات لكل فترة",
       "keyInsights": "رؤى رئيسية",
       "selectYear": "اختر السنة",
@@ -2490,7 +2493,7 @@
       "Delay": "مؤجلة",
       "orderCount": "طلبات البيع",
       "collectionCount": "تحصيلات الزيارة",
-      "history":"سجل الزيارة"
+      "history":"كارت الزيارة"
     },
     "startVisits": {
       "title": " بدايه الزيارة",

@@ -1265,6 +1265,8 @@
       "sendOdoo": "Send Odoo",
       "send": "Send",
       "noSend": "Not Send",
+      "serviceName": "Category Name  ",
+
       "newOrders": {
         "title": "New Orders",
         "titleOperation": "New"
@@ -1537,8 +1539,12 @@
       "InvoiceVIP": "Invoice VIP",
       "Invoice": "Invoice",
       "CampaignAGent": "Campaign",
-      "NewOrder": "Determine Location",
-      "CallCounter": "No Answer"
+      "NewOrder": "Determine location",
+      "CallCounter": "No answer",
+      "SalesOrder":"Sales order ",
+      "ClientCollection":"Client collection  ",
+      "ClientCollectionReminder": "Client Collection Reminder",
+      "VisitReminder": "Visit Reminder"
     },
     "banners": {
       "title": "Banners",
